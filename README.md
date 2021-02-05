@@ -1,6 +1,6 @@
-# App de TODO creado con Webpack
+# App de TODO creado con  Javascript Webpack
 
-Esta aplicación es de repaso con javascript c
+Esta aplicación es de repaso con javascript 
 
 #### Notas:
 Recordar reconstruir los módulos de node
