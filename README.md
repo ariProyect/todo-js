@@ -1,6 +1,6 @@
-# Webpack Starter
+# App de TODO creado con Webpack
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Esta aplicación es de repaso con javascript c
 
 #### Notas:
 Recordar reconstruir los módulos de node
